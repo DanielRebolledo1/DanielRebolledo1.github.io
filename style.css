@@ -75,6 +75,7 @@ body {
     line-height: 0.3;
 }
 
+
 .services .card-body i {
     font-size: 50px;
 }
@@ -86,6 +87,10 @@ body {
 #formulario label {
     color: white;
     margin-bottom: 5px;
+}
+
+.section-header{
+    margin-top: 20px;
 }
 
 
@@ -123,6 +128,14 @@ body {
     }
     .section-padding {
         padding: 50px 0;
+    }
+
+    #documentos{
+        margin-top: 30px;
+    }
+
+    #equipo {
+        margin-left: 25px;
     }
 
 }
